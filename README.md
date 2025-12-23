@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @maxprogamer2005
-- 👀 I’m interested in video games and computers
-- 🌱 I’m currently learning how to make a CHIP-8 interpreter in C
-- 💞️ I’m looking to collaborate on software
-- 📫 YT: @maxprogamer2005 BSKY: n/a
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to learn new things
+Currently active in:
+- [SunChip](https://github.com/maxprogamer2005/SunChip)
 
 <!---
 maxprogamer2005/maxprogamer2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
